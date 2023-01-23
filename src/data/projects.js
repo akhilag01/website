@@ -9,8 +9,7 @@ const data = [
     desc:
       'Built tl;dr Chrome Extensionto generate text based text results based on Youtube and News Article '
       + 'Prompts and responses. Generates paragraph long text articles in any language  '
-      + 'and handles additional instructions for students who want to modify/summarize text.'
-      + 'Over 2k Users.',
+      + 'and handles additional instructions for students who want to modify/summarize text.',
   },
   {
     title: 'reWrite',

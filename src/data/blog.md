@@ -17,8 +17,6 @@ So, I turned the app into a Chrome Extension and shared the news on Reddit again
 
 Recently, I applied for the Kleiner Perkins Fellowship. As part of the application process, I was asked to reflect on my purpose and passions and answer the question: "What impact do I want to have?" After some thought, I came up with the following answer:
 
-AGI is inevitable and
-
 Let's be honest, AGI is inevitable, and it will be integrated into every facet of our lives. As we approach it, we are faced with one of the biggest challenges of our generation: making sure it works for us. Having witnessed the rise of technologies like smartphones and social media, I have seen firsthand the ways in which they have both improved and hindered our lives. As AI becomes more prevalent in our daily lives, it is crucial that we develop AGI in a way that aligns with the values and goals of humanity. 
 <br/>
 

@@ -7,7 +7,7 @@ const data = [
     image: '/images/projects/tldr.jpg',
     date: '2023-01-14',
     desc:
-      'Built tl;dr Chrome Extensionto generate text based text results based on Youtube and News Articles '
+      'Built tl;dr Chrome Extensionto generate text based text results based on Youtube and News Article '
       + 'Prompts and responses. Generates paragraph long text articles in any language  '
       + 'and handles additional instructions for students who want to modify/summarize text.'
       + 'Over 2k Users.',

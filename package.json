@@ -1,12 +1,10 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://akhilagg.com/",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
-  },
+  "repository": "https://personal-site-2023-a6527.web.app",
+  
   "engines": {
     "node": ">=14.x"
   },

@@ -1,46 +1,47 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'tl;dr',
+    subtitle: 'GPT3 Chrome Extension',
+    link: 'https://chrome.google.com/webstore/detail/tldr-gpt3-news-summarizer/ddikohmknplkcapomompgabjabbicaij',
+    image: '/images/projects/tldr.jpg',
+    date: '2023-01-14',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built tl;dr Chrome Extensionto generate text based text results based on Youtube and News Articles '
+      + 'Prompts and responses. Generates paragraph long text articles in any language  '
+      + 'and handles additional instructions for students who want to modify/summarize text.'
+      + 'Over 2k Users.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'reWrite',
+    subtitle: 'News Summarizer, Translator',
+    link: 'https://newsgenerator.herokuapp.com',
+    image: '/images/projects/rewrite.jpg',
+    date: '2023-01-05',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built GPT3 Application to Summarize News for 10k DAU (01/11/2022). '
+      + 'NewsGenerator creates summaries and translations of news articles, '
+      + 'for students to understand top stories without the hassle of paywalls and '
+      + 'verbose texts.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Rapago',
+    subtitle: 'Won 3rd. place in NYU Entrepreneurship Challenge 2021',
+    image: '/images/projects/rapago.jpg',
+    date: '2021-09-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Created Spanish Hospitality and Tourism Payment Solution.'
+      + 'Built application in React Native and stripe to track payments'
+      + 'by item for Restaurant and Hotel customers in Madrid.',
   },
   {
     title: 'Cat Detector',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2020-05-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
+      + 'Over 10,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
   },
 ];
